@@ -1,0 +1,12 @@
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\bin\Debug\WordGameUdp.exe.config
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\bin\Debug\WordGameUdp.exe
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\bin\Debug\WordGameUdp.pdb
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.csprojAssemblyReference.cache
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.Client.resources
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.Properties.Resources.resources
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.Receive.resources
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.csproj.GenerateResource.cache
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.csproj.CoreCompileInputs.cache
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.exe
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.pdb
+C:\Users\Selim Başpınar\source\repos\WordGameUdp\WordGameUdp\obj\Debug\WordGameUdp.Form1.resources
